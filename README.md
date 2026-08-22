@@ -139,14 +139,10 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winterzxzz&theme=tokyo-night&hide_border=true&area=true&color=74c7ec&line=cba6f7&point=89b4fa" alt="activity graph"/>
 </div>
 
 ---
