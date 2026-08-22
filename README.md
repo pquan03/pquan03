@@ -103,27 +103,6 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=winterzxzz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzxzz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=winterzxzz&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=winterzxzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top repos"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
