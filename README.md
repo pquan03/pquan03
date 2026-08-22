@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=74C7EC&center=true&vCenter=true&width=560&lines=Flutter+%26+Mobile+Engineer;macOS+%2F+SwiftUI+Developer;Full-Stack+%7C+Node.js+%2B+TypeScript;Building+native+apps+with+cold+precision" alt="Typing SVG"/>
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=winterzxzz&label=Profile%20views&color=74c7ec&style=flat" alt="views"/>
-<img src="https://img.shields.io/github/followers/winterzxzz?label=Followers&style=flat&color=cba6f7" alt="followers"/>
-
 </div>
 
 ---
