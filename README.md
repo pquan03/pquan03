@@ -103,10 +103,14 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winterzxzz&theme=tokyo-night&hide_border=true&area=true&color=74c7ec&line=cba6f7&point=89b4fa" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake.svg"/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake.svg"/>
+  </picture>
 </div>
 
 ---
