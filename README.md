@@ -115,8 +115,7 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 <div align="center">
 
-<a href="mailto:athenna.2k3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://github.com/winterzxzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://www.linkedin.com/in/winter7123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 <br/><br/>
 
